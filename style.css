@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 20px;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+}
+
+h1, p {
+  text-align: center;
+}
+
+button {
+  font-size: 24px;
+  padding: 10px 20px;
+  position: absolute;
+}
